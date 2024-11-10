@@ -2,9 +2,9 @@
 
 ## Firestorm Viewer
 
-### 32 Bit
+### - 64 Bit
 
-### 64 Bit
+### - 32 Bit
 
 
 
