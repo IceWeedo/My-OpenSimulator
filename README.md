@@ -1,10 +1,14 @@
 # Viewer
 
 ## 64 Bit
+
+### - Windows
 * Firstorm Viewer
-    * Windows: 
 
 ## 32 Bit
+
+### - Windows
+* Firstorm Viewer
 
 ### - 64 Bit
 * Windows:
