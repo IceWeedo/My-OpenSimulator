@@ -1,41 +1,12 @@
 # Viewer
 
-## 64 Bit
+## 64 Bits
 
 ### - Windows
-* Firstorm Viewer
+    * Firstorm Viewer
+    *Linux
 
-## 32 Bit
+## 32 Bits
 
 ### - Windows
-* Firstorm Viewer
-
-### - 64 Bit
-* Windows:
-* Linux:
-* Mac:
-
-### - 32 Bit
-* Windows:
-* Linux:
-* Mac:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-## Content
-
-### - Update
+    * Firstorm View
