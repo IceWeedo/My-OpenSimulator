@@ -1,6 +1,6 @@
 # Viewer
 
-## Firstorm Viewer
+## Firestorm Viewer
 
 ### - 64 Bits
 
