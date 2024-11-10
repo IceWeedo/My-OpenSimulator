@@ -2,9 +2,17 @@
 
 ## Firestorm Viewer
 
-### - 64 Bit
+### 64 Bit
+- Windows
+- Linux
+- Mac
 
-### - 32 Bit
+### 32 Bit
+- Windows
+- Linux
+- Mac
+
+
 
 
 
