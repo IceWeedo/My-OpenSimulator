@@ -10,4 +10,4 @@
 
 ### - 32 Bits
 
-  * [Windows](https://www.firestormviewer.org/windows-for-open-simulator/)
+  * [Windows](https://downloads.firestormviewer.org/release/windows/Phoenix-FirestormOS-Release-6-6-14-69596_Setup.exe)
