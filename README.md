@@ -3,10 +3,15 @@
 ## 64 Bits
 
 ### - Windows
-    * Firstorm Viewer
-    *Linux
+
+  * Firstorm Viewer:
+  * Linux:
+  * Mac:
 
 ## 32 Bits
 
 ### - Windows
-    * Firstorm View
+
+  * Windows:
+  * Linux:
+  * Mac:
