@@ -3,14 +3,14 @@
 ## Firestorm Viewer
 
 ### 64 Bit
-- Windows
-- Linux
-- Mac
+* Windows:
+* Linux:
+* Mac:
 
 ### 32 Bit
-- Windows
-- Linux
-- Mac
+* Windows:
+* Linux:
+* Mac:
 
 
 
