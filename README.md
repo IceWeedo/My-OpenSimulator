@@ -1,6 +1,6 @@
 # Welcome / Bienvenue
 
-Ici je vous partage mes connaissances, informations et autres trouvailles pour OpenSimulator.
+Ici je vous partage mes connaissances, informations et autres trouvailles pour [OpenSimulator](http://opensimulator.org/wiki/Main_Page).
 
 ## Contenu
 
