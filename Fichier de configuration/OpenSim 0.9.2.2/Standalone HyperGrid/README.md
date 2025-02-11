@@ -8,7 +8,7 @@ Contient uniquement les fichiers préconfiguré pour **OpenSimulator 0.9.2.2 Sta
 
 * XInventory
 * YEngine
-* Physics & meshing: ubODE
+* Physics & Meshing: ubODE
 * Wind
 * NPC
 * UserProfiles
@@ -20,7 +20,7 @@ Contient uniquement les fichiers préconfiguré pour **OpenSimulator 0.9.2.2 Sta
 
 * XInventory
 * YEngine
-* Physics & meshing: ubODE
+* Physics & Meshing: ubODE
 * Wind
 * NPC
 * UserProfiles
