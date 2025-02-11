@@ -1,6 +1,6 @@
 # Welcome / Bienvenue
 
-Ici je vous partage mes connaissances, informations et autres trouvailles pour [OpenSimulator](http://opensimulator.org/wiki/Main_Page).
+Ici je vous partage mes connaissances, informations et autres trouvailles pour [OpenSimulator](http://opensimulator.org/).
 
 ## Contenu
 
@@ -15,5 +15,5 @@ Ici je vous partage mes connaissances, informations et autres trouvailles pour [
 
 ### - Binaires
 
- * [Officiel](https://github.com/IceWeedo/My-OpenSimulator/tree/main/Binaires/Officiel)
- * [IceWeedo](https://github.com/IceWeedo/My-OpenSimulator/tree/main/Binaires/IceWeedo) ( Officiel + Fichier de configuration)
+ * [Officiel](Binaires/Officiel)
+ * [IceWeedo](Binaires/IceWeedo) ( Officiel + Fichier de configuration)
