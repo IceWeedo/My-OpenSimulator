@@ -6,13 +6,27 @@ Contient uniquement les fichiers préconfiguré pour **OpenSimulator 0.9.2.2 Sta
 
 ### - SQLite
 
-*
-*
-*
+* XInventory
+* YEngine
+* Physics & meshing: ubODE
+* Wind
+* NPC
+* UserProfiles
+* MediaOnAPrim
+* MySuitecase: Désactivé
+* YEngine
 
 ### - MySQL
 
-*
-*
-*
+* XInventory
+* YEngine
+* Physics & meshing: ubODE
+* Wind
+* NPC
+* UserProfiles
+* MediaOnAPrim
+* MySuitecase: Désactivé
+* YEngine
+* Groups
+* OfflineMessage
 
