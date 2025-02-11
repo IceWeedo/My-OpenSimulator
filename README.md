@@ -10,8 +10,8 @@ Ici je vous partage mes connaissances, informations et autres trouvailles pour [
 
 ### - Fichier de configuration
 
-  * [OpenSimulator 0.9.2.2](Fichier de configuration/OpenSim 0.9.2.2/Standalone HyperGrid)
-  * [OpenSimulator 0.9.3.0](Config/0.9.3.0)
+  * [OpenSimulator 0.9.2.2](https://github.com/IceWeedo/My-OpenSimulator/tree/main/Fichier%20de%20configuration/OpenSim%200.9.2.2/Standalone%20HyperGrid)
+  * [OpenSimulator 0.9.3.0](https://github.com/IceWeedo/My-OpenSimulator/tree/main/Fichier%20de%20configuration/OpenSim%200.9.3.0/Standalone%20HyperGrid)
 
 ### - Binaires
 
